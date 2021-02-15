@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @massey-jack
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning the basis of python and coding overall
+- 💞️ I’m looking to collaborate on projects for beginners or that require mathelatics knowledge
+- 📫 How to reach me jackmassey.monaco@outlook.com
